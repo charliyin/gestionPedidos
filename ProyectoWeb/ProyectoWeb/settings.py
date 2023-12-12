@@ -137,5 +137,5 @@ EMAIL_HOST="smtp-mail.outlook.com"
 EMAIL_USE_TLS=True
 EMAIL_PORT=587
 #EMAIL_USE_SSL=True
-EMAIL_HOST_USER="carchuss@hotmail.com"
-EMAIL_HOST_PASSWORD="Yanina12"
+EMAIL_HOST_USER="dir@mail.com"
+EMAIL_HOST_PASSWORD="pass"
